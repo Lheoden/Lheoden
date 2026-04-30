@@ -3,11 +3,11 @@
 
 ---
 
-## 👀 About Me
-- 🎓 BSIT Student 
-- 💻 Currently learning programming step by step  
-- 🎮 Into games, tech, and building projects  
-- 🎯 Goal: Become a skilled programmer
+## About Me
+-  BSIT Student 
+-  Currently learning programming step by step  
+-  Into games, tech, and building projects  
+-  Goal: Become a skilled programmer
 
 ---
 
@@ -18,9 +18,9 @@
 
 ---
 
-## 🚀 Current Focus
-- 📘 Learning html, css & javascript
-- 🧠 Improving problem-solving skills
+##  Current Focus
+-  Learning html, css & javascript
+-  Improving problem-solving skills
 
 
 <p align="center">
