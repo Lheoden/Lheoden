@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lheoden</h1>
-<h3 align="center">BSIT Student | Future Fullstack /h3>
+<h3 align="center">BSIT Student | Future Fullstack </h3>
 
 ---
 
