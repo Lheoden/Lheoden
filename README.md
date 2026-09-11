@@ -5,7 +5,8 @@
 
 ## About Me
 -  BSIT Student 
--  Into games, tech, and building projects  
+-  Into games, tech, and building projects
+-  inlove with caryl joyce
 
 ---
 
