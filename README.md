@@ -23,5 +23,5 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Future+Developer;Grinding+Everyday;Learning+Step+by+Step" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Cat Lover; Play Drums and Guitar;Learning+Step+by+Step" />
 </p>
